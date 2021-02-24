@@ -1,15 +1,13 @@
 Package: pets
-Title: What the Package Does (One Line, Title Case)
+Title: Evaluate Your Feelings About Pets
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Sara",
+           family = "Faiad",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+           email = "sfaiad@uw.edu")
+Description: Pets are awesome companions. Some people are fans of cats, others not so much.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
